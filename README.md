@@ -17,7 +17,7 @@ Key functionalities:
 <img width="898" height="622" alt="Screenshot 2026-06-02 131606" src="https://github.com/user-attachments/assets/b139591e-c91e-4f62-bb5c-0397ae6909fe" />
 
 # Available from Summer 2026
-Sign-up for a notification on release here
+Sign-up for a notification on release here: [https://forms.gle/dv1oHRrLNAAyXBXi7](https://forms.gle/dv1oHRrLNAAyXBXi7)
 - Free to use in any projects
 - With detailed documentation
 - Examples, tutorials included
@@ -58,4 +58,6 @@ Key competences:
 - Measurement Software Development
 - NI Certified Trainings
 - Custom Cable Harness Production
+
+**Contact us** [via email or phone](https://prodsp.hu/en/contact-us)
 
